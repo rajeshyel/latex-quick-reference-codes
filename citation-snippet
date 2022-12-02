@@ -1,0 +1,15 @@
+  citealp = Cao et al., 2019
+• citealp*= Cao, Zhang, Zhu, Li, Li, Liu and Qiu, 2019
+• cite= Cao et al. (2019)
+• citealt= Cao et al. 2019
+• citealt*= Cao, Zhang, Zhu, Li, Li, Liu and Qiu 2019
+• citeauthor= Cao et al.
+• citeauthor*= Cao, Zhang, Zhu, Li, Li, Liu and Qiu
+• citefullauthor= Cao, Zhang, Zhu, Li, Li, Liu and Qiu
+• citenum= 7
+• citep= (Cao et al., 2019)
+• citep*= (Cao, Zhang, Zhu, Li, Li, Liu and Qiu, 2019)
+• citet= Cao et al. (2019)
+• citet*= Cao, Zhang, Zhu, Li, Li, Liu and Qiu (2019)
+• citeyear= 2019
+• citeyearpar= (2019)
